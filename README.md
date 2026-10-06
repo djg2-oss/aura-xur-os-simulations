@@ -1,2 +1,2 @@
-# aura-xur-os-simulations
-AuraXur OS multi-simulation system for memory growth, latency reduction, elite site operation on local + host
+# AuraXur OS simulations
+Nested memory and host-broker pattern for the G2P desk. Open index.html. Updated 2026-10-05.
